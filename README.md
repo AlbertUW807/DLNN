@@ -1,2 +1,2 @@
 # DLNN
-Deep Learning &amp; Neural Networks Projects
+Deep Learning & Neural Networks Projects
