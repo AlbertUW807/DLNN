@@ -54,6 +54,10 @@ parameters = model(train_X, train_Y, initialization = "zeros")
 predictions_train = predict(train_X, train_Y, parameters)
 predictions_test = predict(test_X, test_Y, parameters)
 
+# Check for Model Performance
+print (predictions_train)
+print (predictions_test)
+
 # Random Initialization
 def initialize_parameters_random(layers_dims):
     np.random.seed(3) # seed
@@ -70,6 +74,10 @@ def initialize_parameters_random(layers_dims):
 parameters = model(train_X, train_Y, initialization = "random")
 predictions_train = predict(train_X, train_Y, parameters)
 predictions_test = predict(test_X, test_Y, parameters)
+
+# Check for Model Performance
+print (predictions_train)
+print (predictions_test)
 
 # He initialization
 def initialize_parameters_he(layers_dims):
@@ -88,4 +96,6 @@ parameters = model(train_X, train_Y, initialization = "he")
 predictions_train = predict(train_X, train_Y, parameters)
 predictions_test = predict(test_X, test_Y, parameters)
 
-
+# Check for Model Performance
+print (predictions_train)
+print (predictions_test)
