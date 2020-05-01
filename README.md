@@ -17,3 +17,5 @@ Deep Learning & Neural Networks Projects
   - Zero Initialization -> Fails to break symmetry (all parameters to 0).
   - Random Initialization -> Breaks symmetry, more efficient models.
   - He Initialization -> Xavier Initialization without scaling factor, recommended for layers with ReLU activation.
+
+[Regularization Methods](https://github.com/AlbertUW807/DLNN/tree/master/Model%20Initialization)
