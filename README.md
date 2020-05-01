@@ -18,4 +18,7 @@ Deep Learning & Neural Networks Projects
   - Random Initialization -> Breaks symmetry, more efficient models.
   - He Initialization -> Xavier Initialization without scaling factor, recommended for layers with ReLU activation.
 
-[Regularization Methods](https://github.com/AlbertUW807/DLNN/tree/master/Model%20Initialization)
+[Regularization Methods](https://github.com/AlbertUW807/DLNN/tree/master/Regularization%20Methods)
+  - Used a deep learning model to determine which player does the goalkeeper have to pass to from a noisy dataset.
+  - Implemented a model in regularization and dropout mode to see how different regularization methods affect it.
+  - Better accuracy on the training set over the test set without regularization.
