@@ -22,3 +22,8 @@ Deep Learning & Neural Networks Projects
   - Used a deep learning model to determine which player does the goalkeeper have to pass to from a noisy dataset.
   - Implemented a model in regularization and dropout mode to see how different regularization methods affect it.
   - Better accuracy on the training set over the test set without regularization.
+
+[Gradient Check](https://github.com/AlbertUW807/DLNN/tree/master/Gradient%20Check)
+  - Implemented a One-Dimensional and an N-Dimensional Gradient Check.
+  - Used the difference formula to check the backward propogation.
+  - Able to identify which parameter's gradient was calculated incorrectly.
