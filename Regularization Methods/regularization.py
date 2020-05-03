@@ -96,6 +96,11 @@ def backward_propagation_with_regularization(X, Y, cache, lambd):
     
     return gradients
 
+# Training L2-regularization model
+parameters = model(train_X, train_Y, lambd = 0.7)
+predictions_train = predict(train_X, train_Y, parameters)
+predictions_test = predict(test_X, test_Y, parameters)
+
 # Forward Propagation w Dropout
 def forward_propagation_with_dropout(X, parameters, keep_prob = 0.5):
     np.random.seed(1)
@@ -154,10 +159,9 @@ def backward_propagation_with_dropout(X, Y, cache, keep_prob):
     
     return gradients
 
-
-
-
-
-
+# Training the Dropout-Model
+parameters = model(train_X, train_Y, keep_prob = 0.86, learning_rate = 0.3)
+predictions_train = predict(train_X, train_Y, parameters)
+predictions_test = predict(test_X, test_Y, parameters)
 
 
