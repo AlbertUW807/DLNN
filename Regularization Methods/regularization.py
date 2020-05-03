@@ -56,6 +56,11 @@ def model(X, Y, learning_rate = 0.3, num_iterations = 30000, print_cost = True, 
     
     return parameters
 
+# Training Bare Model
+parameters = model(train_X, train_Y)
+predictions_train = predict(train_X, train_Y, parameters)
+predictions_test = predict(test_X, test_Y, parameters)
+
 # Cost function
 def compute_cost_with_regularization(A3, Y, parameters, lambd):
     m = Y.shape[1]
