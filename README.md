@@ -27,3 +27,9 @@ Deep Learning & Neural Networks Projects
   - Implemented a One-Dimensional and an N-Dimensional Gradient Check.
   - Used the difference formula to check the backward propogation.
   - Able to identify which parameter's gradient was calculated incorrectly.
+
+
+[Gradient Check](https://github.com/AlbertUW807/DLNN/tree/master/Optimization)
+  - Used mini-batch gradient descent
+  - How momentum affects performance of a model
+  - Adam and RMS prop
