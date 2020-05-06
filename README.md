@@ -29,7 +29,7 @@ Deep Learning & Neural Networks Projects
   - Able to identify which parameter's gradient was calculated incorrectly.
 
 
-[Gradient Check](https://github.com/AlbertUW807/DLNN/tree/master/Optimization)
+[Optimization](https://github.com/AlbertUW807/DLNN/tree/master/Optimization)
   - Used mini-batch gradient descent
   - How momentum affects performance of a model
   - Adam and RMS prop
