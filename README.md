@@ -33,3 +33,7 @@ Deep Learning & Neural Networks Projects
   - Used mini-batch gradient descent
   - How momentum affects performance of a model
   - Adam and RMS prop
+  - Training the 3-Layer Neural Network
+    - Mini-batch Gradient Descent
+    - Mini-batch Momentum
+    - Mini-batch Adam
