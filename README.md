@@ -6,6 +6,7 @@
 [Logistic Regression](https://github.com/AlbertUW807/DLNN/tree/master/Logistic%20Regression)
   - Implemented an Image Recognition Algorithm that recognizes cats with 67% accuracy!
   - Used a logistic regression model.
+  
 
 [Deep Learning Model](https://github.com/AlbertUW807/DLNN/tree/master/Deep%20Learning%20Model)
   - Implemented an Image Recognition Algorithm that recognizes cats with 80% accuracy!
