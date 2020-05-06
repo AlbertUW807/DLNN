@@ -37,3 +37,4 @@ Deep Learning & Neural Networks Projects
     - Mini-batch Gradient Descent
     - Mini-batch Momentum
     - Mini-batch Adam
+  - Adam References: https://arxiv.org/pdf/1412.6980.pdf
