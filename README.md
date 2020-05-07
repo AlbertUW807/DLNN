@@ -1,7 +1,7 @@
 # DLNN-Algo
 〽️ Deep Learning & Neural Networks Projects 〽️
 
-# Projects 
+### Projects 
 
 [Logistic Regression](https://github.com/AlbertUW807/DLNN/tree/master/Logistic%20Regression)
   - Implemented an Image Recognition Algorithm that recognizes cats with 67% accuracy!
