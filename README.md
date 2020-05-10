@@ -36,7 +36,7 @@ $ install numpy
 
 
 #### [Optimization](https://github.com/AlbertUW807/DLNN/tree/master/Optimization)
-  - Used mini-batch gradient descent
+  - Used mini-batch gradient descent.
   - How momentum affects performance of a model
   - Adam and RMS prop
   - Training the 3-Layer Neural Network
