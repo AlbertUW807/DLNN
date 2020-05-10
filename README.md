@@ -43,4 +43,4 @@ $ install numpy
     - Mini-batch Gradient Descent
     - Mini-batch Momentum
     - Mini-batch Adam
-  - Adam References: https://arxiv.org/pdf/1412.6980.pdf
+  - Adam References: https://arxiv.org/pdf/1412.6980.pdf.
